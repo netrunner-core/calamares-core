@@ -1,5 +1,6 @@
 ---
 componentName:  netrunner-core
+windowExpanding: noexpand
 
 strings:
     productName:         Netrunner Core
